@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kross</title>
+    <link>https://ecyrblim.github.io/</link>
+    <description>Recent content on Kross</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://ecyrblim.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://ecyrblim.github.io/about/</link>
+      <pubDate>Fri, 24 Jul 2020 14:51:29 +0200</pubDate>
+      
+      <guid>https://ecyrblim.github.io/about/</guid>
+      <description>About page</description>
+    </item>
+    
+  </channel>
+</rss>
